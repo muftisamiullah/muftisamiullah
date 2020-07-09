@@ -1,5 +1,9 @@
 
+
+<div align="center">
 ![About Me](https://github.com/muftisamiullah/muftisamiullah/raw/master/bio.gif)
+<p>Perfectly balanced</p>
+</div>
 <!--
 **muftisamiullah/muftisamiullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
