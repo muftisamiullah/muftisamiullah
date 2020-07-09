@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="" height="300" src="https://github.com/muftisamiullah/muftisamiullah/raw/master/bio.gif">
+  <img width="" height="300" src="https://github.com/muftisamiullah/muftisamiullah/raw/master/boo.gif">
 </p>
 
 * [Portfolio](https://muftisamiullah.github.io/)
