@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![About Me](https://github.com/muftisamiullah/muftisamiullah/raw/master/bio.gif)
 <!--
 **muftisamiullah/muftisamiullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
