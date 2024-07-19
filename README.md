@@ -6,5 +6,3 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=muftisamiullah&theme=light&hide_border=true" />
   </a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaid-wani&label=Profile%20views&color=0e75b6&style=flat" alt="ubaid-wani" /> </p>
