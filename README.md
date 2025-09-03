@@ -6,7 +6,7 @@
   "birthday": "27-10-1993",
   "country": "IOK",
   "city": "Srinagar",
-  "stack": ["Javascript", "React", "Next", "", "", "..."],
+  "stack": ["Typescript", "React", "Next.js", "Node.js", "React Native", "..."],
   "interest": ["Tech", "Table Tennis", "", "", "..."]
 }
 ```
